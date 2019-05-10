@@ -6,7 +6,7 @@ A lightweight Firefox AddOn to switch the proxy setting between `none`, `system`
 
 ### :sparkles:Installing
 
-Download from `Mozilla Add-ons`.
+Download from [Mozilla Add-ons](https://addons.mozilla.org/de/firefox/addon/proxytoggler/).
 
 ### :pencil2:Customize
 
